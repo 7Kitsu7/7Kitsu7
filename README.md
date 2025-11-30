@@ -4,14 +4,14 @@
 <!-- GIF HEADER -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">¡Hola! Soy Cristhian Villacorta</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2 align="left">¡Hola! Soy Giovani Salcedo</h2>
 
 ### 👨🏻‍💻 &nbsp;Acerca de mí
 🎓 &nbsp;Soy ingeniero de Sistemas apasionado por la tecnología y la innovación.\
 💡 &nbsp;Me gusta explorar nuevas herramientas y tendencias en desarrollo de software, análisis de datos e inteligencia artificial.\
 ✍️ &nbsp;En mi tiempo libre disfruto del diseño de interfaces Web/móviles en Figma y la redacción de blogs, como pasatiempos y proyectos paralelos..\
 💬 &nbsp;No dudes en contactarme para asesorías, colaboraciones o simplemente para tener una conversación interesante sobre tecnología.\
-✉️ &nbsp;¡Puedes escribirme a ing.villacorta.dev@gmail.com , ¡intentaré responderte lo antes posible!.\
+✉️ &nbsp;¡Puedes escribirme a ing.giovani.dev@gmail.com , ¡intentaré responderte lo antes posible!.\
 
 <img 
   alt="Night Coding" 
