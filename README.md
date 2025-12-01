@@ -46,10 +46,11 @@
       </p>
       <h3>Herramientas</h3>
       <p>
-        <img src="https://skillicons.dev/icons?i=figma,androidstudio,vscode,git,postman,mysql,postgres" />
+        <img src="https://skillicons.dev/icons?i=figma,androidstudio,vscode,postman,mysql,postgres" />
       </p>
       <h3>Bases de datos</h3>
       <p>
+        <img src="https://skillicons.dev/icons?i=supabase" width="45"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45"/>
       </p>
@@ -61,6 +62,7 @@
       <p>
         <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub%20Desktop-8034A9?style=for-the-badge&logo=github&logoColor=white"/>
       </p>
     </td>
     <!-- Columna derecha: GIFs -->
