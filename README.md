@@ -55,7 +55,7 @@
       </p>
       <h3>Automatización</h3>
       <p>
-        <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/packages/design-system/src/icons/tech/n8n-icon.svg" width="45" alt="n8n" />
+        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.74.0/files/dark/n8n-color.png" width="45" alt="n8n" />
       </p>
       <h3>Control de versiones</h3>
       <p>
@@ -106,10 +106,8 @@
 ## 🤝 Conéctate conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/giovani-salcedo"><img src="https://img.shields.io/badge/-Giovani%20Salcedo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/giovani-salcedo-quispe/"><img src="https://img.shields.io/badge/-Giovani%20Salcedo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="mailto:ing.giovani.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
 <!-- BOTTOM LINE -->
