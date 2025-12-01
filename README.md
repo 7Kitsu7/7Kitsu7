@@ -48,7 +48,6 @@
       <p>
         <img src="https://skillicons.dev/icons?i=figma,androidstudio,vscode,git,postman,mysql,postgres" />
       </p>
-      <br>
       <h3><img src="https://cdn-icons-png.flaticon.com/512/1946/1946426.png" width="25"> Bases de datos</h3>
       <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
@@ -76,16 +75,12 @@
         style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0, 229, 255, 0.3);"
       />
       <br><br>
-      <p style="color: #888; font-size: 14px;"><i>Programando con pasión 💻</i></p>
-      <br><br>
       <img 
         alt="Anime GIF" 
-        src="https://i0.wp.com/drunkenanimeblog.com/wp-content/uploads/2017/08/giphy-9.gif?fit=850%2C478&ssl=1" 
+        src="https://images.steamusercontent.com/ugc/844838772937138623/D448EEB239D59E04ECC4998517AA4E27CCA1B8FE/?imw=512&imh=288&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" 
         width="95%" 
         style="border-radius: 15px; box-shadow: 0 4px 12px rgba(255, 105, 180, 0.3);"
       />
-      <br><br>
-      <p style="color: #888; font-size: 14px;"><i>Fan del anime 🎌</i></p>
     </td>
   </tr>
 </table>
