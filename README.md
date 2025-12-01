@@ -5,7 +5,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<h1 align="center"><b>Hola, soy Giovani Salcedo</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center"><b>¡Hola! Soy Giovani Salcedo</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <!-- typing effect -->
 <p align="center">
@@ -16,8 +16,10 @@
 
 <br>
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="40" align="left"/>
-<h2 align="left">👨🏻‍💻 Acerca de mí</h2>
+<!-- Sección reorganizada: Acerca de mí más arriba y pila tecnológica a la izquierda del GIF -->
+<div align="center">
+
+### 👨🏻‍💻 Acerca de mí
 
 🎓 Ingeniero de Sistemas apasionado por la tecnología y la innovación.  
 💡 Interesado en desarrollo web/móvil, cloud, automatización e inteligencia artificial.  
@@ -25,68 +27,92 @@
 💬 Abierto a colaboraciones, proyectos y asesorías tecnológicas.  
 ✉️ Escríbeme: **ing.giovani.dev@gmail.com**
 
-<img 
-  alt="Night Coding" 
-  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnc4ZG8xdXltZDk2ZnN5NTBiZnBoYnd3OGIxaGswa2dvZTN0aHBhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WiIuC6fAOoXD2/giphy.gif" 
-  align="right" 
-  width="420" 
-  style="border-radius: 50%;"
-/>
+</div>
 
----
+<br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> **Pila Tecnológica**
+<!-- Layout con tabla para alinear pila tecnológica y GIF -->
+<table>
+  <tr>
+    <!-- Columna izquierda: Pila tecnológica -->
+    <td width="60%" valign="top">
+      <h2>🛠️ Pila Tecnológica</h2>
+      <h3>Lenguajes & Frameworks</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,angular,python,php,java,c,cpp,nodejs,laravel" />
+      </p>
+      <h3>DevOps & Cloud</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=docker,firebase,aws" />
+      </p>
+      <h3>Herramientas</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=figma,androidstudio,vscode,git,postman,mongodb,mysql,postgres" />
+      </p>
+      <br>
+      <h3>🗃 Bases de datos</h3>
+      <p>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/>
+      </p>
+      <h3>🧰 Automatización</h3>
+      <p>
+        <img src="https://n8n.io/guidelines/dont/reverse.png" width="45" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjjlv7Pyzp7qJ0N7cw8VAjCQnLjuH6AS7lNg&s" width="45" />
+      </p>
+      <h3>🔧 Control de versiones y herramientas</h3>
+      <p>
+        <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse"/>
+        <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
+        <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira"/>
+        <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
+      </p>
+    </td>
+    <!-- Columna derecha: GIF -->
+    <td width="40%" valign="top" align="center">
+      <img 
+        alt="Night Coding" 
+        src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnc4ZG8xdXltZDk2ZnN5NTBiZnBoYnd3OGIxaGswa2dvZTN0aHBhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WiIuC6fAOoXD2/giphy.gif" 
+        width="100%" 
+        style="border-radius: 10px;"
+      />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-
-<!-- Lenguajes -->
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,angular,python,php,java,c,cpp,nodejs,laravel&perline=10" />
-
-<!-- DevOps / Cloud -->
-<img src="https://skillicons.dev/icons?i=docker,firebase,aws&perline=10" />
-
-<!-- Herramientas -->
-<img src="https://skillicons.dev/icons?i=figma,androidstudio,vscode,git,postman,mongodb,mysql,postgres&perline=10" />
-
-</p>
-
----
-
-## 🧰 Automatización
-
-<p align="left">
-  <img src="https://n8n.io/guidelines/dont/reverse.png" width="45" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjjlv7Pyzp7qJ0N7cw8VAjCQnLjuH6AS7lNg&s" width="45" />
-</p>
-
----
-
-## 🗃 Bases de datos
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50"/>
-</p>
-
----
-
-## 🧰 Control de versiones y herramientas
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<br>
 
 ---
 
 ## 📜 Mis artículos
 
-| <img src="https://cvidal.onrender.com/assets/img/articulo1.jpg" width="60" /> | <img src="https://cvidal.onrender.com/assets/img/articulo3.jpg" width="60" /> | <img src="https://revistas.unh.edu.pe/public/journals/5/cover_issue_42_es_ES.jpg" width="60" /> | <img src="https://cvidal.onrender.com/assets/img/articulo4.png" width="60" /> |
-|---|---|---|---|
-| Rev. UPT | Rev. IRR | Rev. UNH | Rev. UNU |
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://cvidal.onrender.com/assets/img/articulo1.jpg" width="80" />
+      <br>
+      Rev. UPT
+    </td>
+    <td align="center">
+      <img src="https://cvidal.onrender.com/assets/img/articulo3.jpg" width="80" />
+      <br>
+      Rev. IRR
+    </td>
+    <td align="center">
+      <img src="https://revistas.unh.edu.pe/public/journals/5/cover_issue_42_es_ES.jpg" width="80" />
+      <br>
+      Rev. UNH
+    </td>
+    <td align="center">
+      <img src="https://cvidal.onrender.com/assets/img/articulo4.png" width="80" />
+      <br>
+      Rev. UNU
+    </td>
+  </tr>
+</table>
 
 ---
 
