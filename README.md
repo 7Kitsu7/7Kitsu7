@@ -14,8 +14,6 @@
   </a>
 </p>
 
-<br>
-
 <!-- Sección reorganizada: Acerca de mí más arriba y pila tecnológica a la izquierda del GIF -->
 <div align="center">
 
