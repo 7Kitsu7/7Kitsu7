@@ -38,15 +38,15 @@
       <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> <b>Pila Tecnológica</b></h2>
       <h3>Lenguajes & Frameworks</h3>
       <p>
-        <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,angular,python,php,java,c,cpp,nodejs,laravel" />
+        <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,python,php,nodejs,laravel,react,flutter" />
       </p>
       <h3>DevOps & Cloud</h3>
       <p>
-        <img src="https://skillicons.dev/icons?i=docker,firebase,aws" />
+        <img src="https://skillicons.dev/icons?i=docker,aws,azure" />
       </p>
       <h3>Herramientas</h3>
       <p>
-        <img src="https://skillicons.dev/icons?i=figma,androidstudio,vscode,git,postman,mongodb,mysql,postgres" />
+        <img src="https://skillicons.dev/icons?i=figma,androidstudio,vscode,git,postman,mysql,postgres" />
       </p>
       <br>
       <h3><img src="https://cdn-icons-png.flaticon.com/512/1946/1946426.png" width="25"> Bases de datos</h3>
@@ -58,19 +58,15 @@
       <h3><img src="https://cdn-icons-png.flaticon.com/512/3095/3095108.png" width="25"> Automatización</h3>
       <p>
         <img src="https://n8n.io/guidelines/dont/reverse.png" width="45" />
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjjlv7Pyzp7qJ0N7cw8VAjCQnLjuH6AS7lNg&s" width="45" />
       </p>
       <h3><img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="25"> Control de versiones y herramientas</h3>
       <p>
         <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse"/>
-        <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
         <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira"/>
-        <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
       </p>
     </td>
-    <!-- Columna derecha: GIF más grande -->
+    <!-- Columna derecha: GIFs -->
     <td width="45%" valign="top" align="center">
       <br><br>
       <img 
@@ -81,6 +77,15 @@
       />
       <br><br>
       <p style="color: #888; font-size: 14px;"><i>Programando con pasión 💻</i></p>
+      <br><br>
+      <img 
+        alt="Anime GIF" 
+        src="https://i0.wp.com/drunkenanimeblog.com/wp-content/uploads/2017/08/giphy-9.gif?fit=850%2C478&ssl=1" 
+        width="95%" 
+        style="border-radius: 15px; box-shadow: 0 4px 12px rgba(255, 105, 180, 0.3);"
+      />
+      <br><br>
+      <p style="color: #888; font-size: 14px;"><i>Fan del anime 🎌</i></p>
     </td>
   </tr>
 </table>
