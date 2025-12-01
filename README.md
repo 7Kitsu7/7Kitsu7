@@ -27,8 +27,6 @@
 
 </div>
 
-<br>
-
 <!-- Layout con tabla para alinear pila tecnológica y GIF -->
 <table border="0" cellspacing="0" cellpadding="0">
   <tr>
