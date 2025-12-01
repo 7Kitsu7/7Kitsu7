@@ -5,7 +5,9 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<h1 align="center"><b>Hola, soy Giovani Salcedo</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center"><b>Hola, soy Giovani Salcedo</b> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">
+</h1>
 
 <!-- typing effect -->
 <p align="center">
@@ -14,41 +16,51 @@
   </a>
 </p>
 
-<br><br>
+<br>
 
-<!-- ABOUT ME SECTION -->
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<!-- CONTENEDOR FLEX -->
+<div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 25px;">
 
-  <!-- TEXT -->
+  <!-- COLUMNA IZQUIERDA -->
   <div style="flex: 1;">
-    <h2>👨🏻‍💻 Acerca de mí</h2>
 
-    🎓 Ingeniero de Sistemas apasionado por la tecnología y la innovación.  
-    💡 Interesado en desarrollo web/móvil, cloud, automatización e inteligencia artificial.  
-    ✍️ Disfruto diseñar interfaces en Figma y escribir pequeños blogs como hobby.  
-    💬 Abierto a colaboraciones, proyectos y asesorías tecnológicas.  
-    ✉️ Escríbeme: **ing.giovani.dev@gmail.com**
+<img src="./assets/Hand%20Wave.gif" width="40" align="left"/>
+<h2 align="left" style="margin-top: -5px;">👨🏻‍💻 Acerca de mí</h2>
+
+🎓 Ingeniero de Sistemas apasionado por la tecnología y la innovación.  
+💡 Interesado en desarrollo web/móvil, cloud, automatización e inteligencia artificial.  
+✍️ Me gusta diseñar interfaces con Figma y escribir pequeños blogs como hobby.  
+💬 Abierto a colaboraciones, proyectos y asesorías tecnológicas.  
+✉️ Escríbeme: **ing.giovani.dev@gmail.com**
+
   </div>
 
-  <!-- GIF -->
-  <img 
-    src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnc4ZG8xdXltZDk2ZnN5NTBiZnBoYnd3OGIxaGswa2dvZTN0aHBhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WiIuC6fAOoXD2/giphy.gif" 
-    width="350"
-    style="border-radius: 50%; margin-left: 20px;"
-  />
+  <!-- COLUMNA DERECHA CON GIF -->
+  <div>
+    <img 
+      src="https://media2.giphy.com/media/WiIuC6fAOoXD2/giphy.gif" 
+      width="350" 
+      style="border-radius: 50%;"
+    />
+  </div>
 
 </div>
-
-<br><br>
 
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> **Pila Tecnológica**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,angular,python,php,java,c,cpp,nodejs,laravel&perline=10" />
-  <img src="https://skillicons.dev/icons?i=docker,firebase,aws&perline=10" />
-  <img src="https://skillicons.dev/icons?i=figma,androidstudio,vscode,git,postman,mongodb,mysql,postgres&perline=10" />
+
+<!-- Lenguajes -->
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,angular,python,php,java,c,cpp,nodejs,laravel&perline=10" />
+
+<!-- DevOps / Cloud -->
+<img src="https://skillicons.dev/icons?i=docker,firebase,aws&perline=10" />
+
+<!-- Herramientas -->
+<img src="https://skillicons.dev/icons?i=figma,androidstudio,vscode,git,postman,mongodb,mysql,postgres&perline=10" />
+
 </p>
 
 ---
@@ -69,6 +81,25 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50"/>
 </p>
+
+---
+
+## 🧰 Control de versiones y herramientas
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+---
+
+## 📜 Mis artículos
+
+| <img src="https://cvidal.onrender.com/assets/img/articulo1.jpg" width="60" /> | <img src="https://cvidal.onrender.com/assets/img/articulo3.jpg" width="60" /> | <img src="https://revistas.unh.edu.pe/public/journals/5/cover_issue_42_es_ES.jpg" width="60" /> | <img src="https://cvidal.onrender.com/assets/img/articulo4.png" width="60" /> |
+|---|---|---|---|
+| Rev. UPT | Rev. IRR | Rev. UNH | Rev. UNU |
 
 ---
 
