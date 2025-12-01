@@ -48,21 +48,19 @@
       <p>
         <img src="https://skillicons.dev/icons?i=figma,androidstudio,vscode,git,postman,mysql,postgres" />
       </p>
-      <h3><img src="https://cdn-icons-png.flaticon.com/512/1946/1946426.png" width="25"> Bases de datos</h3>
+      <h3>Bases de datos</h3>
       <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/>
       </p>
-      <h3><img src="https://cdn-icons-png.flaticon.com/512/3095/3095108.png" width="25"> Automatización</h3>
+      <h3>Automatización</h3>
       <p>
-        <img src="https://n8n.io/guidelines/dont/reverse.png" width="45" />
+        <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/packages/design-system/src/icons/tech/n8n-icon.svg" width="45" alt="n8n" />
       </p>
-      <h3><img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="25"> Control de versiones y herramientas</h3>
+      <h3>Control de versiones</h3>
       <p>
         <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-        <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira"/>
       </p>
     </td>
     <!-- Columna derecha: GIFs -->
@@ -94,24 +92,11 @@
 <table border="0" cellspacing="20" cellpadding="0" style="border: none;">
   <tr>
     <td align="center" style="border: none;">
-      <img src="https://cvidal.onrender.com/assets/img/articulo1.jpg" width="80" style="border-radius: 8px;"/>
+      <a href="https://portalrevistas.aulavirtualusmp.pe/index.php/rc/article/view/2959" target="_blank">
+        <img src="https://portalrevistas.aulavirtualusmp.pe/public/journals/39/cover_issue_381_es.jpg" width="80" style="border-radius: 8px; cursor: pointer;"/>
+      </a>
       <br>
-      <b>Rev. UPT</b>
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cvidal.onrender.com/assets/img/articulo3.jpg" width="80" style="border-radius: 8px;"/>
-      <br>
-      <b>Rev. IRR</b>
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://revistas.unh.edu.pe/public/journals/5/cover_issue_42_es_ES.jpg" width="80" style="border-radius: 8px;"/>
-      <br>
-      <b>Rev. UNH</b>
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://cvidal.onrender.com/assets/img/articulo4.png" width="80" style="border-radius: 8px;"/>
-      <br>
-      <b>Rev. UNU</b>
+      <b>Rev. CAMPUS</b>
     </td>
   </tr>
 </table>
