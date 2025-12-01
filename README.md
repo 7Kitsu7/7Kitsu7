@@ -106,8 +106,15 @@
 ## 🤝 Conéctate conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/giovani-salcedo-quispe/"><img src="https://img.shields.io/badge/-Giovani%20Salcedo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:ing.giovani.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <!-- LinkedIn con logo oficial -->
+  <a href="https://www.linkedin.com/in/giovani-salcedo-quispe/" target="_blank" style="margin-right: 20px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" height="40" alt="LinkedIn" style="border-radius: 8px;"/>
+  </a>
+  
+  <!-- Gmail con logo oficial -->
+  <a href="mailto:ing.giovani.dev@gmail.com" style="margin-left: 20px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" height="40" alt="Gmail" style="border-radius: 8px;"/>
+  </a>
 </p>
 
 <!-- BOTTOM LINE -->
