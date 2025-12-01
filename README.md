@@ -5,13 +5,25 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<!-- TITULO PRESENTACIÓN -->
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
-<h2 align="left">¡Hola! Soy Giovani Salcedo</h2>
+<h1 align="center"><b>Hola, soy Giovani Salcedo</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-<!-- ============================================= -->
-<!-- GIF LATERAL A LA DERECHA COMO EN EL EJEMPLO -->
-<!-- ============================================= -->
+<!-- typing effect -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Ingeniero+de+Sistemas;Desarrollador+Web+y+Móvil;Apasionado+por+la+IA+y+la+Automatización;Siempre+aprendiendo+nuevas+tecnologías;Fan+del+anime+y+del+Dota+1">
+  </a>
+</p>
+
+<br>
+
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width="40" align="left"/>
+<h2 align="left">👨🏻‍💻 Acerca de mí</h2>
+
+🎓 Ingeniero de Sistemas apasionado por la tecnología y la innovación.  
+💡 Interesado en desarrollo web/móvil, cloud, automatización e inteligencia artificial.  
+✍️ Disfruto diseñar interfaces en Figma y escribir pequeños blogs como hobby.  
+💬 Abierto a colaboraciones, proyectos y asesorías tecnológicas.  
+✉️ Escríbeme: **ing.giovani.dev@gmail.com**
 
 <img 
   alt="Night Coding" 
@@ -21,85 +33,56 @@
   style="border-radius: 50%;"
 />
 
-<!-- ============================================= -->
-<!--           ACERCA DE MI - IZQUIERDA            -->
-<!-- ============================================= -->
-
-### 👨🏻‍💻 &nbsp;Acerca de mí  
-Soy desarrollador con experiencia en soluciones web y móviles, enfocado en crear experiencias eficientes, escalables y orientadas al usuario.  
-Apasionado por el anime, Dota 1, el desarrollo backend, devops y la automatización de procesos.  
-Siempre buscando aprender algo nuevo y mejorar mis habilidades técnicas.  
-
-📩 &nbsp;Puedes escribirme cuando quieras: **giovani.dev@gmail.com**
-
 ---
 
-# 💻 &nbsp;Pila de tecnología:
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> **Pila Tecnológica**
 
-<p align="left">
+<p align="center">
 
-<!-- FRONTEND -->
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a>
-<a href="#"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a>
-<a href="#"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=ts" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=js" width="40"/></a>
+<!-- Lenguajes -->
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,angular,python,php,java,c,cpp,nodejs,laravel&perline=10" />
 
-<!-- BACKEND -->
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=nodejs" width="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a>
+<!-- DevOps / Cloud -->
+<img src="https://skillicons.dev/icons?i=docker,firebase,aws&perline=10" />
 
-<!-- LENGUAJES -->
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/></a>
-
-<!-- CLOUD / DEVOPS -->
-<a href="#"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=docker" width="40"/></a>
-
-<!-- TOOLS -->
-<a href="#"><img src="https://skillicons.dev/icons?i=figma" width="40"/></a>
-<a href="#"><img src="https://1.bp.blogspot.com/-LgTa-xDiknI/X4EflN56boI/AAAAAAAAPuk/24YyKnqiGkwRS9-_9suPKkfsAwO4wHYEgCLcBGAsYHQ/s0/image9.png" width="40"/></a>
-<a href="#"><img src="https://user-images.githubusercontent.com/64439609/212556816-5f39489d-6cee-4f1c-997f-4d30a391287c.png" width="40"/></a>
-<a href="#"><img src="https://user-images.githubusercontent.com/64439609/212556802-77a65ec1-aa71-4272-b603-1a57d1914678.png" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=postman" width="40"/></a>
+<!-- Herramientas -->
+<img src="https://skillicons.dev/icons?i=figma,androidstudio,vscode,git,postman,mongodb,mysql,postgres&perline=10" />
 
 </p>
 
 ---
 
-### 🧰 &nbsp;Automatización
+## 🧰 Automatización
 
-<a href="#"><img src="https://n8n.io/guidelines/dont/reverse.png" width="40"/></a>
-<a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjjlv7Pyzp7qJ0N7cw8VAjCQnLjuH6AS7lNg&s" width="40"/></a>
-
----
-
-### 🗃 &nbsp;Bases de datos
-
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=aws" width="40"/></a>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
+<p align="left">
+  <img src="https://n8n.io/guidelines/dont/reverse.png" width="45" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjjlv7Pyzp7qJ0N7cw8VAjCQnLjuH6AS7lNg&s" width="45" />
+</p>
 
 ---
 
-### 🧰 &nbsp;Control de versiones y herramientas
+## 🗃 Bases de datos
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50"/>
+</p>
+
+---
+
+## 🧰 Control de versiones y herramientas
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
-### 📜 &nbsp;Mis artículos
+## 📜 Mis artículos
 
 | <img src="https://cvidal.onrender.com/assets/img/articulo1.jpg" width="60" /> | <img src="https://cvidal.onrender.com/assets/img/articulo3.jpg" width="60" /> | <img src="https://revistas.unh.edu.pe/public/journals/5/cover_issue_42_es_ES.jpg" width="60" /> | <img src="https://cvidal.onrender.com/assets/img/articulo4.png" width="60" /> |
 |---|---|---|---|
@@ -107,14 +90,14 @@ Siempre buscando aprender algo nuevo y mejorar mis habilidades técnicas.
 
 ---
 
-### 🤝🏻 &nbsp;Conéctate conmigo
+## 🤝 Conéctate conmigo
 
 <p align="center">
-
-<a href="#"><img src="https://img.shields.io/badge/-Giovani%20Salcedo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-giovani.dev-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-giovani.dev-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/-Giovani-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
-
+  <a href="https://www.linkedin.com/in/giovani-salcedo"><img src="https://img.shields.io/badge/-Giovani%20Salcedo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:ing.giovani.dev@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
+<!-- BOTTOM LINE -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
