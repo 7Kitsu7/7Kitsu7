@@ -79,7 +79,12 @@
         alt="Anime GIF" 
         src="https://images.steamusercontent.com/ugc/844838772937138623/D448EEB239D59E04ECC4998517AA4E27CCA1B8FE/?imw=512&imh=288&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" 
         width="95%" 
-        style="border-radius: 15px; box-shadow: 0 4px 12px rgba(255, 105, 180, 0.3);"
+        style="
+          height: 400px;      /* AQUI LE DAS MÁS ALTO */
+          object-fit: cover;  
+          border-radius: 15px; 
+          box-shadow: 0 4px 12px rgba(255, 105, 180, 0.3);
+        "
       />
     </td>
   </tr>
