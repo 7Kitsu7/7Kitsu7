@@ -14,7 +14,7 @@
   </a>
 </p>
 
-<!-- Sección reorganizada: Acerca de mí más arriba y pila tecnológica a la izquierda del GIF -->
+<!-- Sección Acerca de mí -->
 <div align="center">
 
 ### 👨🏻‍💻 Acerca de mí
@@ -30,11 +30,12 @@
 <br>
 
 <!-- Layout con tabla para alinear pila tecnológica y GIF -->
-<table>
+<table border="0" cellspacing="0" cellpadding="0">
   <tr>
     <!-- Columna izquierda: Pila tecnológica -->
-    <td width="60%" valign="top">
-      <h2>🛠️ Pila Tecnológica</h2>
+    <td width="55%" valign="top">
+      <!-- Título de la pila tecnológica con el GIF -->
+      <h2><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> <b>Pila Tecnológica</b></h2>
       <h3>Lenguajes & Frameworks</h3>
       <p>
         <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,angular,python,php,java,c,cpp,nodejs,laravel" />
@@ -48,18 +49,18 @@
         <img src="https://skillicons.dev/icons?i=figma,androidstudio,vscode,git,postman,mongodb,mysql,postgres" />
       </p>
       <br>
-      <h3>🗃 Bases de datos</h3>
+      <h3><img src="https://cdn-icons-png.flaticon.com/512/1946/1946426.png" width="25"> Bases de datos</h3>
       <p>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="45"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45"/>
       </p>
-      <h3>🧰 Automatización</h3>
+      <h3><img src="https://cdn-icons-png.flaticon.com/512/3095/3095108.png" width="25"> Automatización</h3>
       <p>
         <img src="https://n8n.io/guidelines/dont/reverse.png" width="45" />
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjjlv7Pyzp7qJ0N7cw8VAjCQnLjuH6AS7lNg&s" width="45" />
       </p>
-      <h3>🔧 Control de versiones y herramientas</h3>
+      <h3><img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="25"> Control de versiones y herramientas</h3>
       <p>
         <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
         <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
@@ -69,14 +70,17 @@
         <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"/>
       </p>
     </td>
-    <!-- Columna derecha: GIF -->
-    <td width="40%" valign="top" align="center">
+    <!-- Columna derecha: GIF más grande -->
+    <td width="45%" valign="top" align="center">
+      <br><br>
       <img 
         alt="Night Coding" 
         src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnc4ZG8xdXltZDk2ZnN5NTBiZnBoYnd3OGIxaGswa2dvZTN0aHBhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WiIuC6fAOoXD2/giphy.gif" 
-        width="100%" 
-        style="border-radius: 10px;"
+        width="95%" 
+        style="border-radius: 15px; box-shadow: 0 4px 12px rgba(0, 229, 255, 0.3);"
       />
+      <br><br>
+      <p style="color: #888; font-size: 14px;"><i>Programando con pasión 💻</i></p>
     </td>
   </tr>
 </table>
@@ -87,27 +91,27 @@
 
 ## 📜 Mis artículos
 
-<table>
+<table border="0" cellspacing="20" cellpadding="0" style="border: none;">
   <tr>
-    <td align="center">
-      <img src="https://cvidal.onrender.com/assets/img/articulo1.jpg" width="80" />
+    <td align="center" style="border: none;">
+      <img src="https://cvidal.onrender.com/assets/img/articulo1.jpg" width="80" style="border-radius: 8px;"/>
       <br>
-      Rev. UPT
+      <b>Rev. UPT</b>
     </td>
-    <td align="center">
-      <img src="https://cvidal.onrender.com/assets/img/articulo3.jpg" width="80" />
+    <td align="center" style="border: none;">
+      <img src="https://cvidal.onrender.com/assets/img/articulo3.jpg" width="80" style="border-radius: 8px;"/>
       <br>
-      Rev. IRR
+      <b>Rev. IRR</b>
     </td>
-    <td align="center">
-      <img src="https://revistas.unh.edu.pe/public/journals/5/cover_issue_42_es_ES.jpg" width="80" />
+    <td align="center" style="border: none;">
+      <img src="https://revistas.unh.edu.pe/public/journals/5/cover_issue_42_es_ES.jpg" width="80" style="border-radius: 8px;"/>
       <br>
-      Rev. UNH
+      <b>Rev. UNH</b>
     </td>
-    <td align="center">
-      <img src="https://cvidal.onrender.com/assets/img/articulo4.png" width="80" />
+    <td align="center" style="border: none;">
+      <img src="https://cvidal.onrender.com/assets/img/articulo4.png" width="80" style="border-radius: 8px;"/>
       <br>
-      Rev. UNU
+      <b>Rev. UNU</b>
     </td>
   </tr>
 </table>
