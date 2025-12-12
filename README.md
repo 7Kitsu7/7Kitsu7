@@ -21,7 +21,6 @@
 
 🎓 Ingeniero de Sistemas apasionado por la tecnología y la innovación.  
 💡 Interesado en desarrollo web/móvil, cloud, automatización e inteligencia artificial.  
-✍️ Disfruto diseñar interfaces en Figma y escribir pequeños blogs como hobby.  
 💬 Abierto a colaboraciones, proyectos y asesorías tecnológicas.  
 ✉️ Escríbeme: **ing.giovani.dev@gmail.com**
 
