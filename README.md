@@ -10,7 +10,7 @@
 <!-- typing effect -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Ingeniero+de+Sistemas;Desarrollador+Web+y+Móvil;Apasionado+por+la+IA+y+la+Automatización;Siempre+aprendiendo+nuevas+tecnologías;Fan+del+anime+y+del+Dota+1">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Desarrollador+Web+y+Móvil;Siempre+aprendiendo+nuevas+tecnologías;Fan+del+anime+y+del+Dota+1">
   </a>
 </p>
 
@@ -22,7 +22,7 @@
 🎓 Ingeniero de Sistemas apasionado por la tecnología y la innovación.  
 💡 Interesado en desarrollo web/móvil, cloud, automatización e inteligencia artificial.  
 💬 Abierto a colaboraciones, proyectos y asesorías tecnológicas.  
-✉️ Escríbeme: **ing.giovani.dev@gmail.com**
+✉️ Escríbeme: **giovani.fs.dev@gmail.com**
 
 </div>
 
