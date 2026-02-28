@@ -20,7 +20,7 @@
 ### 👨🏻‍💻 Acerca de mí
 
 🎓 Egresado de Ingeniera de Sistemas apasionado por la tecnología y la innovación.  
-💡 Interesado en desarrollo web/móvil.  
+💡 Interesado en desarrollo web/móvile e IA.
 💬 Abierto a colaboraciones, proyectos y asesorías tecnológicas.  
 ✉️ Escríbeme: **giovani.fs.dev@gmail.com**
 
@@ -77,7 +77,7 @@
         src="https://images.steamusercontent.com/ugc/844838772937138623/D448EEB239D59E04ECC4998517AA4E27CCA1B8FE/?imw=512&imh=288&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" 
         width="95%" 
         style="
-          height: 270px;      /* AQUI LE DAS MÁS ALTO */
+          height: 270px;      
           object-fit: cover;  
           border-radius: 15px; 
           box-shadow: 0 4px 12px rgba(255, 105, 180, 0.3);
