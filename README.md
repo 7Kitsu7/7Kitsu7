@@ -19,7 +19,7 @@
 
 ### 👨🏻‍💻 Acerca de mí
 
-🎓 Egresado de Ingeniera de Sistemas apasionado por la tecnología y la innovación.  
+🎓 Bachiller de Ingeniera de Sistemas apasionado por la tecnología y la innovación.  
 💡 Interesado en desarrollo web/móvil e IA.   
 💬 Abierto a colaboraciones, proyectos y asesorías tecnológicas.  
 ✉️ Escríbeme: **giovani.fs.dev@gmail.com**
